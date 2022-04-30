@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.example.demo.entities.Booking;
 import com.example.demo.services.BookingService;
-
+//
 @RestController
 public class BookingController {
 	@Autowired
